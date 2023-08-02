@@ -1,0 +1,12 @@
+@import './base.css';
+body,html{
+  background: #eee;
+}
+#app {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+  font-weight: normal;
+}
+
